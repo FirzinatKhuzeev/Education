@@ -1,0 +1,22 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "Super-Dooper Business",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp build"
+  },
+  "keywords": [
+    "redux"
+  ],
+  "author": "Firzinat Khuzeev",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.0.0",
+    "jquery": "^1.11.1"
+  }
+}
