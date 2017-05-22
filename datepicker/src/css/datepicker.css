@@ -1,0 +1,48 @@
+.today{
+    background-color: #E6E6E6;
+}
+.unavailable{
+    color: #E6E6E6;
+}
+.hide{
+    display: none;
+}
+.datepicker{
+    position: absolute;
+    background-color: white;
+    box-shadow: 0 0 3px 4px lightgray;
+}
+.datepicker table{               
+    background: #fff;
+    border-collapse: collapse;
+    border: 1px solid lightgray;
+    box-shadow: 0 0 3px 4px lightgray;
+    border-top: none;
+    font-family: 'Segoe UI';
+    min-width: 220px;
+}
+.datepicker td,
+.datepicker th {
+    border-bottom: 1px solid silver;
+    padding: 5px;
+    text-align: center;
+}
+.datepicker td{
+    cursor: pointer;
+}
+.datepicker th {
+    font-size: 12px;
+}
+.datepicker caption{
+    text-align: center;
+    background: #fff;
+    border: 1px solid silver;
+    border-bottom: none;
+    padding: 5px;
+}
+.prev{
+    float: left;
+}
+.next{
+    float: right;
+}
